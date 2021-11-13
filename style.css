@@ -1,0 +1,12 @@
+#footer{
+    bottom: 10;
+    position: fixed;
+    text-align: center;
+    color: purple;
+    width: 100%;
+    background-image: linear-gradient(to right top, #006b5b, #348564, #5d9f6b, #89b871, #b9d078, #d5c871, #ecbe73, #ffb57e, #f79188, #d9779a, #a569a7, #5d62a6);
+}
+
+body{
+    background-size: cover;
+}
